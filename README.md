@@ -1,21 +1,18 @@
-# api-test-ruby
+# QA Test Youse
+* Desafio para Vaga QA Youse.
 
-A simple project using HTTParty for API Testing
-
-API Example on test - https://jsonplaceholder.typicode.com/
-
-#### Dependencies
+#### Dependências
 
 * HTTParty
 * Rspec
+* Cucumber
 * Ruby
 * Bundle
 
 #### Setup
-* git clone https://github.com/deyvisonbm/api_with_httparty.git
+* git clone https://github.com/deyvisonbm/cucumber+httparty
 * bundle install
 
-#### Run
+#### Executar
 
-* rspec test-httparty.rb
-* rspec test-httparty.rb --format=documentation --> for more details.
+* cucumber
