@@ -11,7 +11,7 @@
 * Bundle
 
 #### Setup
-* git clone https://github.com/deyvisonbm/cucumber+httparty
+* git clone https://github.com/deyvisonbm/cucumber-httparty
 * bundle install
 
 #### Executar
