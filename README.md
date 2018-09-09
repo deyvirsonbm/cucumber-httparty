@@ -1,5 +1,6 @@
-# QA Test Youse
-* Desafio para Vaga QA Youse.
+### API Marvel
+* API Marvel usada para os testes
+* https://developer.marvel.com/
 
 #### Dependências
 
@@ -14,5 +15,4 @@
 * bundle install
 
 #### Executar
-
 * cucumber
